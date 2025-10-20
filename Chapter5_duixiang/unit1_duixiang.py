@@ -12,5 +12,7 @@ class 类：
 2、对象：一个类具体化的一个实例，把大象装进冰箱 v222aaa
 
 3、aaaaaaaaaaaaaaa   aaa
+
+4、112345
 '''
 
